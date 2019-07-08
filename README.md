@@ -17,11 +17,11 @@
 
 logout输出：
 
-![1562603822023](D:\HuChenxu\浙大学习资料\大二下_2018-2019第二学期\小学期-字节跳动-Android实训\homework\Summer_ByteDance_AndroidCamp\pic\1562603822023.png)
+![1562603822023](.\pic\1562603822023.png)
 
 APK文件输出：
 
-![1562603985734](D:\HuChenxu\浙大学习资料\大二下_2018-2019第二学期\小学期-字节跳动-Android实训\homework\Summer_ByteDance_AndroidCamp\pic\1562603985734.png)
+![1562603985734](.\pic\1562603985734.png)
 
 -----
 
