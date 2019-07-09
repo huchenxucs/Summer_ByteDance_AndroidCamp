@@ -25,3 +25,33 @@ APK文件输出：
 
 -----
 
+## Chapter 2
+
+作业要求：
+
+实现RecyclerView
+
+![1562689837798](pic/1562689837798.png)
+
+![1562689973476](pic/1562689973476.png)
+
+![1562690064950](pic/1562690064950.png)
+
+
+
+**实现结果：**
+
+![imgday2](pic/day2.png)
+
+![day2_2](pic/day2_2.png)
+
+**Advanced Task:**
+
+利用itemDecoration实现分割线的绘制。
+
+自定义间隔样式需要继承`RecyclerView.ItemDecoration`类，然后override onDraw方法即可。
+
+结果如上图所示。
+
+----
+
