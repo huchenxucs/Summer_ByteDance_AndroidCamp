@@ -55,3 +55,42 @@ APK文件输出：
 
 ----
 
+
+
+## Chapter 3
+
+**作业要求：**
+
+* ex1:  SeekBar + Lottie
+
+* ex2:  添加 scale 动画 
+
+  ​         添加 alpha 动画
+
+  ​         组合到 AnimatorSet
+
+* ex3(加分项):  TabLayout + ViewPager 
+
+
+
+**实现结果：**
+
+以下是录制的gif：
+
+![imggif](pic/chapter3.gif)
+
+加分项界面截图：
+
+![jia](pic/ex3.png)
+
+
+
+**Advanced Task:**
+
+首先实现ex3 activity 的xml文件，里面有TabLayout和ViewPager。
+
+实现自定义MyViewPagerAdapter类，继承自FragmentPagerAdapter，override其中必要的方法
+
+ex3 activity中实现对TabLayout和ViewPager内容的设定，其中ViewPager内容的设定借助MyViewPagerAdapter实现。
+
+实现三个自定义的Fragment类（ZjuFragment，BytedanceFragment，AndroidFragment）以及相应的xml文件，在ex3 activity中实例化即可。
