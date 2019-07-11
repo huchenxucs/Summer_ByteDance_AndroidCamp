@@ -119,3 +119,12 @@ ex3 activity中实现对TabLayout和ViewPager内容的设定，其中ViewPager�
 
 ![ingday42](pic/day4flip.gif)
 
+
+
+**Android Profiler分析器：**
+
+利用内存分析器**memory profiler**可以帮助检查是否出现**内存泄漏**。
+
+内存分析器是Android Profiler中的一个组件，它可以帮助识别内存泄漏和内存溢出。它显示了应用程序内存使用的实时图，方便开发者跟踪内存分配。
+
+经检测，可以看到memory的使用情况随着程序的运行保持平稳，说明没有内存泄漏。
