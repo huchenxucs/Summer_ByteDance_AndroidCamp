@@ -94,3 +94,28 @@ APK文件输出：
 ex3 activity中实现对TabLayout和ViewPager内容的设定，其中ViewPager内容的设定借助MyViewPagerAdapter实现。
 
 实现三个自定义的Fragment类（ZjuFragment，BytedanceFragment，AndroidFragment）以及相应的xml文件，在ex3 activity中实例化即可。
+
+------
+
+
+
+## Chapter 4
+
+**作业要求：**
+
+![1562834507232](pic/1562834507232.png)
+
+
+
+**实验结果：**
+
+以下是程序运行的gif图片：
+
+![day41](pic/day4.gif)
+
+
+
+测试翻转的gif：
+
+![ingday42](pic/day4flip.gif)
+
